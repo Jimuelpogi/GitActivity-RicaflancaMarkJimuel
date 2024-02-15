@@ -8,3 +8,11 @@ print("My Educational Background:")
 
 print("CICS")
 print("BSI/T-2C")
+
+print("My Hobbies:")
+
+print("Watching Movies")
+print("Drawing")
+print("Eating")
+print("Playing ML")
+print("Travel")
